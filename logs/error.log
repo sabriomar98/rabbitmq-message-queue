@@ -1,0 +1,19 @@
+2024-08-18 14:13:57 [[31merror[39m]: An error occurred while sending message to RabbitMQ
+2024-08-18 14:14:42 [[31merror[39m]: An error occurred while sending message to RabbitMQ Cannot destructure property 'message' of 'request.body' as it is undefined.
+2024-08-18 14:15:38 [[31merror[39m]: An error occurred while sending message to RabbitMQ Cannot destructure property 'message' of 'request.body' as it is undefined.
+2024-08-18 14:16:32 [[31merror[39m]: Error connecting to RabbitMQ server
+2024-08-18 14:16:32 [[31merror[39m]: An error occurred while sending message to RabbitMQ
+2024-08-18 15:12:33 [[31merror[39m]: Error connecting to RabbitMQ server Handshake terminated by server: 403 (ACCESS-REFUSED) with message "ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."
+2024-08-18 15:12:33 [[31merror[39m]: An error occurred while sending message to RabbitMQ Handshake terminated by server: 403 (ACCESS-REFUSED) with message "ACCESS_REFUSED - Login was refused using authentication mechanism PLAIN. For details see the broker logfile."
+2024-08-18 15:13:18 [[31merror[39m]: Error connecting to RabbitMQ server Expected ConnectionOpenOk; got <ConnectionClose channel:0>
+2024-08-18 15:13:18 [[31merror[39m]: An error occurred while sending message to RabbitMQ Expected ConnectionOpenOk; got <ConnectionClose channel:0>
+2024-08-18 15:14:07 [[31merror[39m]: Error connecting to RabbitMQ server Socket closed abruptly during opening handshake
+2024-08-18 15:14:07 [[31merror[39m]: An error occurred while sending message to RabbitMQ Socket closed abruptly during opening handshake
+2024-08-18 15:15:50 [[31merror[39m]: Error connecting to RabbitMQ server Expected ConnectionOpenOk; got <ConnectionClose channel:0>
+2024-08-18 15:15:50 [[31merror[39m]: An error occurred while sending message to RabbitMQ Expected ConnectionOpenOk; got <ConnectionClose channel:0>
+2024-08-18 15:17:47 [[31merror[39m]: Error connecting to RabbitMQ server Socket closed abruptly during opening handshake
+2024-08-18 15:17:47 [[31merror[39m]: An error occurred while sending message to RabbitMQ Socket closed abruptly during opening handshake
+2024-08-18 15:20:50 [[31merror[39m]: Error connecting to RabbitMQ server getaddrinfo ENOTFOUND rabbitmq
+2024-08-18 15:20:50 [[31merror[39m]: An error occurred while sending message to RabbitMQ getaddrinfo ENOTFOUND rabbitmq
+2024-08-18 15:30:07 [[31merror[39m]: Error connecting to RabbitMQ server getaddrinfo ENOTFOUND rabbitmq
+2024-08-18 15:30:07 [[31merror[39m]: An error occurred while sending message to RabbitMQ getaddrinfo ENOTFOUND rabbitmq
